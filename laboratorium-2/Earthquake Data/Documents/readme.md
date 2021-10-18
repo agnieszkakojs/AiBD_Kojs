@@ -47,7 +47,7 @@ W celu uzyskania powyższych rezulatów należy odpalić po kolei skypty:
 
 
 ## UWAGA DO PROJEKTU
--W powyższych skryptach użyta jest lokalna ścieżka do otwierania plików z projektu. Należy zmienić ją, 
+- W powyższych skryptach użyta jest lokalna ścieżka do otwierania plików z projektu. Należy zmienić ją, 
 aby dane wczytywały się poprawnie.
 - W projekcie użyty był Python wersja 3.8.3 oraz rozszerzenia Pandas, matplotlib.pyplot, seaborn
 
