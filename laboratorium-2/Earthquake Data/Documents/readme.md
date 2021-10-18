@@ -29,7 +29,7 @@ obiektywne, dlatego nie dało się ich zastąpić żadnymi innymi danymi.
 Tabela ta jako plik csv została zapisana w folderze Analysis Data jako "earthquake_data_newframe.csv"
 
 4. W kolejnym kroku został utworzony plik Data Appendix w folderze Documents, który zawiera książkę kodów i przewodnik
-użytkownika dla utworzonych plików do analizy danych. Tabelę i wykrysy wykorzystane do tworzenia
+użytkownika dla utworzonych plików do analizy danych. Tabelę i wykresy wykorzystane do tworzenia
 tego dodatku zostały wygenerowane z pliku "data_appendix_earthquake.ipynb" z folderu Command Files
 oraz zapisane w pliku Analysis Data. Na ich postawie w pliku Data Appendix zostały opisane wszystkie
 zmienne potrzebne do analizy danych.
@@ -42,7 +42,7 @@ Znajdują się tam instrukcje do rysowania wykresów, które zawierają interesu
 
 
 ## PODSUMOWANIE
-W celu uzyskania powyższych rezulatów należy odpalić po kolei skypty:
+W celu uzyskania powyższych rezultatów należy odpalić po kolei skrypty:
 "data_work_earthquake.ipynb" -> "data_appendix_earthquake.ipynb" -> "the_results_earthquake.ipynb"
 
 
