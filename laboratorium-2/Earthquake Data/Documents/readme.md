@@ -1,13 +1,13 @@
 ## Struktura folderów
 Cały projekt zawarty jest w folderze o nazwie "Earthquake Data". </br>
 W tym folderze są 4 kolejne foldery:
-1. Analysis Data </br>
+1. **Analysis Data </br>**
 Folder ten zawiera oczyszczone oraz przetworzone pliki danych.
-2. Command Files </br>
+2. **Command Files** </br>
 W tym folderze znajdują się pliki, które zawierają kody do przetwarzania i analizy danych.
-3. Documents </br>
+3. **Documents** </br>
 Folder ten zawiera kopie pracy końcowej, Data Appendix oraz plik Readme
-4. Original Data </br>
+4. **Original Data** </br>
 Folder, który zawiera oryginalne dane oraz folder z Metadanymi
 
 
